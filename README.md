@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Foundations Notes 🧠✍️
+# ☁️ AWS Cloud Foundations Notes 🧠
 
 This repository contains **handwritten & visual-rich notes** from the **AWS Academy Cloud Foundations** course. Notes are uploaded **daily in PDF format** for consistent revision and clarity.
 
